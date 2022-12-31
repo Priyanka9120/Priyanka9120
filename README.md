@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Priyanka Yadav</h1>
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+
+
+
+
+
+<h1 align="center">Hi <img alt="img" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">,  I'm Priyanka Yadav</h1>
 <h3 align="center">A Passionate BackEnd Developer from Function-Up.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/VP9QIDJ.gif">
+<img align="right" alt="Coding" width="500" src="https://github.com/Priyanka9120/Priyanka9120/blob/main/tenor.gif?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka9120&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka9120" /> </p>
 
